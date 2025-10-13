@@ -19,10 +19,9 @@ function Root() {
           </p>
           <TypeAnimation
             texts={[
-              "_full stack webdeveloper",
-              "_web designer",
-              "_backend developer",
-              "_app developer",
+              "_Software Developer",
+              "_Integration Developer",
+              "_Backend Developer"
             ]}
             color="blue"
             size="avg"
