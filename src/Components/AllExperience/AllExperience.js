@@ -5,12 +5,20 @@ function AllExperience() {
   return (
     <div className="d-flex flex-column align-items-center justify-content-center services mt-5">
       <SpecialColumn
-        title={"Agevole"}
-        symbol={"Mar 2024 - Present"}
+        title={"QuadReal"}
+        symbol={"Sept 2025 - Present"}
         description={
-          "Designed and developed a custom order management dashboard for TM Fragrance, enabling real-time inventory tracking and automation. Optimized database performance to boost processing efficiency by 50%, handling 1,000+ daily transactions worth ₹10 million. Reduced manual errors by 30%, enhancing workflow and client satisfaction."
+          "Developed and maintain MuleSoft-based integration solutions using an API-led architecture to connect systems like Workday, Yardi, and ServiceNow. My work ensures reliable data flow and scalability across platforms while resolving critical issues, improving health monitoring, and supporting data migration to Liferay. I also collaborate with the Cybersecurity team to integrate Workiva and Microsoft Purview into Microsoft Fabric, enhancing compliance and monitoring."
         }
-        descriptionHeading={"Full-Stack Web Developer (Remote)"}
+        descriptionHeading={"Integration Developer Intern"}
+      />
+      <SpecialColumn
+        title={"Agevole"}
+        symbol={"Jan 2024 - Aug 2025"}
+        description={
+          "Designed and developed distributed microservices and React + TypeScript dashboards for a multi-tenant sales platform handling over 1K daily orders and $10M+ in revenue. I built a serverless AWS video pipeline using S3, Lambda, SQS, Fargate, and FFmpeg, automating media workflows and reducing processing time by up to 20%. I also contributed to API design, CI/CD automation, and infrastructure with Terraform and Datadog, improving scalability, reliability, and team efficiency."
+        }
+        descriptionHeading={"Software Developer (Remote)"}
       />
       <SpecialColumn
         title={"Opus Technologies"}

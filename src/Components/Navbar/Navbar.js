@@ -18,7 +18,7 @@ function TopNavbar() {
     <Navbar collapseOnSelect expand="xl">
       <Container>
         <Navbar.Brand className="avg_fonts white_color">
-          &#47;&#47;&nbsp;&nbsp;JASH PATEL
+          &#47;&#47;&nbsp;&nbsp;Jash Patel
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
